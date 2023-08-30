@@ -1,6 +1,7 @@
+@import url(style/banner.css);
 @import url(style/header.css);
 :root{
-    --cor-de-fundo:#EBECEE;
+    --cor-de-fundo:#EBECEE;/*colocar todas as cores na aula 2*/
     --branco: #ffffff;
     --laranja: #EB9B00;
     --azul-degrade: darkblue;
@@ -8,6 +9,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+
 }
 
 body{
